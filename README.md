@@ -40,14 +40,13 @@
 
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-* [`Donasi MHD FADHIL`](https://saweria.co/mhdfadhilaryaputra)
 
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-* [`Youtube Admin`](https://youtube.com/c/FadhilChannel21)
-* [`Instagram Admin`](https://instagram.com/mhd_padhil112)
-* [`WhatsApp Admin `](https://wa.me/+628877558686)
+* [`Youtube Admin`]
+* [`Instagram Admin`]
+* [`WhatsApp Admin `
 * [`Group WhatsApp `](https://chat.whatsapp.com/DcSr2e5hLMd7PkufBVym)
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
