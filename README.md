@@ -1,4 +1,4 @@
-## <img src="https://github.com/Mfadhil33/Nodejs1/Hi.gif" width="29px"> I'm Fadhil
+## <img src="https://github.com/Mfadhil33/Nodejs1/Hi.gif" width="29px"> I'm vibecoder
 <p align="center">
 <p align='center'><a href="https://instagram.com/mhd_fadhil112_"><img height="200" src="https://avatars.githubusercontent.com/u/74324843?v=4=true"></a>&nbsp;&nbsp;</p>
 </p>
@@ -28,7 +28,7 @@
 </details>
  <h1>Running Server</h1>
  <h3>npm run start-dev</h3>
-### 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 Fadhil
+### 𝗧𝗵𝗮𝗻𝗸𝘀 
 
 
 
